@@ -1,9 +1,10 @@
-# [Challenge 6] Urban Air Quality Assistant — AeroPulse
+#  Urban Air Quality Assistant — AeroPulse
 
 **AeroPulse** is a context-aware, responsive Urban Air Quality Assistant built for **Challenge 6**. It transforms live atmospheric pollutant data into personalized, real-world health and activity decisions based on who you are, what you are doing, how long you will be exposed, and whether you are indoors or outdoors.
 
 ---
-
+**Virtual Prompt Wars** competition 
+Live Link : -https://urban-ten-omega.vercel.app
 ## Chosen Vertical
 - **Vertical:** `[Challenge 6] Urban Air Quality Assistant`
 - **Target Use Case:** Helping urban residents, commuters, athletes, and sensitive groups (asthma, children, elderly) make safe daily decisions about outdoor exercise, mask usage, indoor ventilation, and optimal activity timing.
